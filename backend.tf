@@ -4,7 +4,7 @@ terraform {
     organization = "BillingApp"
  
   workspaces {
-    name = "test-jenkins-pipeline"
+    name = "jenkins-tf-pipeline"
   }
  }
 }
